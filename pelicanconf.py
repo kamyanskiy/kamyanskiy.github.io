@@ -83,7 +83,6 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('Linkedin', 'https://www.linkedin.com/in/alexander-kamyanskiy-20850043/'),
           ('Telegram', 'https://t.me/id_fe57c427f4c1', 'telegram'),
           ('Stackoverflow', 'https://stackoverflow.com/users/2235755/alexander-kamyanskiy', 'stack-overflow'),
-          ('Facebook', 'https://www.facebook.com/alexander.kamyanskiy'),
           ('GitHub', 'https://github.com/kamyanskiy'),)
 
 DEFAULT_PAGINATION = 5
